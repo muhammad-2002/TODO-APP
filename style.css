@@ -10,7 +10,6 @@
   box-sizing: border-box;
 }
 
-
 .container {
   background: #d3efdf;
   padding: 25px;
@@ -44,6 +43,7 @@ h2 {
 
 .logo img {
   width: 100px;
+  border-radius: 50%;
 }
 
 .new-task-container {
